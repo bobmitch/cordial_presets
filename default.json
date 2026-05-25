@@ -1,0 +1,5276 @@
+[
+  {
+    "cat": "Diatonic",
+    "name": "I  IV  V  I",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  V  vi  IV (Axis, desc bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      4
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  IV  vi  V (cadential)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      6,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "ii  V  I  I",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  vi  IV  V (50s)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "vi  IV  I  V",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      1,
+      5
+    ],
+    "inversions": [
+      0,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  iii  IV  V",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  IV  I  V",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      1,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  vi  ii  V",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  IV  ii  V",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      2,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "vi  ii  V  I (circle)",
+    "mode": "major",
+    "degrees": [
+      6,
+      2,
+      5,
+      1
+    ],
+    "inversions": [
+      0,
+      2,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  V  vi  iii  IV  I  IV  V (Pachelbel)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      3,
+      4,
+      1,
+      4,
+      5
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  IV  V  vi (deceptive)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  V  vi  IV (half-bar tail)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      4,
+      1,
+      5,
+      4,
+      1
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  V  vi  iii  IV  I  IV  V (Pachelbel half-bar)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      3,
+      4,
+      1,
+      4,
+      5
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Diatonic",
+    "name": "I  vi  IV  V (50s half-bar)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  V  IV  V",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      4,
+      5
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  iii  vi  IV (stepwise desc bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      6,
+      4
+    ],
+    "inversions": [
+      0,
+      2,
+      1,
+      0
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "vi  V  IV  V (descending)",
+    "mode": "major",
+    "degrees": [
+      6,
+      5,
+      4,
+      5
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  V  vi  iii",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      3
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  IV  vi  iii",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      6,
+      3
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  V/vi  vi  IV",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      6,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "vi  IV  V  I (uplift, walking bass)",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      5,
+      1
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "vi  iii  IV  I (lo-fi)",
+    "mode": "major",
+    "degrees": [
+      6,
+      3,
+      4,
+      1
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  V  vi  IV  I  V  IV  IV (8-bar)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      4,
+      1,
+      5,
+      4,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  IV  I  V (folk)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      1,
+      5
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  vi7  IVadd9  iii7 (so true)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      3
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "add9",
+      "min7"
+    ],
+    "inversions": [
+      2,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  V  vi  I  IV (long descending bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      1,
+      4
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  II  IV  V (Lydian lift, pedal)",
+    "mode": "major",
+    "degrees": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "1",
+      "",
+      ""
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  v  bVII  IV (Toto Africa)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      5,
+      7,
+      4
+    ],
+    "qualities": [
+      "add9",
+      "min7",
+      "add9",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  I/7  I/b7  IV (chromatic desc bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      1,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "7",
+      "b7",
+      ""
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  I/7  vi  vi/5  IV  V (stepwise desc bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      6,
+      6,
+      4,
+      5
+    ],
+    "bass": [
+      "",
+      "7",
+      "",
+      "5",
+      "",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  v  ii  iv (Our House)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      2,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "min",
+      "min",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  I  iv  bVII (My Life Verse)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      1,
+      5,
+      7
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "min7",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "",
+      "2",
+      ""
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "i iv bVII bIII bVI bVI V (My Life Chorus - A Min Ref)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      4,
+      7,
+      3,
+      6,
+      6,
+      5
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "maj",
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  IV  iv  I (borrowed minor iv)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  I7  IV  iv (Let It Be)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      4,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "maj",
+      "min"
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "I  bVI  bIII  bVII  I (borrowed cluster)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Pop/Folk",
+    "name": "i  bVII  IV  V (minor, borrowed major IV)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "I  Vsus4  I  IVsus2",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      1,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "sus4",
+      "maj",
+      "sus2"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "Isus2  IVadd9  V  vi",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      6
+    ],
+    "qualities": [
+      "sus2",
+      "add9",
+      null,
+      null
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "I  Isus2  Isus4  I",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "sus2",
+      "sus4",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "vi  IVadd9  Isus2  V",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      null,
+      "add9",
+      "sus2",
+      null
+    ],
+    "inversions": [
+      0,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "IVmaj7  Imaj7  vi  V",
+    "mode": "major",
+    "degrees": [
+      4,
+      1,
+      6,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      null,
+      null
+    ],
+    "inversions": [
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "I  IVsus2  vi  Vsus4",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      6,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "sus2",
+      "min",
+      "sus4"
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "Imaj9  IVmaj9  iiim11  vi9",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      3,
+      6
+    ],
+    "qualities": [
+      "maj9",
+      "maj9",
+      "min11",
+      "min9"
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "Imaj7#11  IImaj7#11  Imaj7#11  IImaj7#11 (Lyd float)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "qualities": [
+      "maj7#11",
+      "maj7#11",
+      "maj7#11",
+      "maj7#11"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "Imaj7  IVmaj7 (tonic pedal float)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "1"
+    ]
+  },
+  {
+    "cat": "Ambient",
+    "name": "Imaj7#11  vi9  IVmaj7#11  V7sus4 (Lyd pad)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "qualities": [
+      "maj7#11",
+      "min9",
+      "maj7#11",
+      "7sus4"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  IVmaj7  iii7  vi11",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      3,
+      6
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "min7",
+      "min11"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "ii7  V7  Imaj7  VI7 (V/ii)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      6
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "maj7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj9  vi7  iim11  V7sus4",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj9",
+      "min7",
+      "min11",
+      "7sus4"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "IVmaj7  iii7  iim11  V7",
+    "mode": "major",
+    "degrees": [
+      4,
+      3,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min11",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  bVIImaj7  IVmaj7  I6/9",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      7,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "6/9"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "vi7  IVmaj7  Imaj7#11  V7",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7#11",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      1,
+      3,
+      1
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "im9  IVdom9 (Dorian vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "min9",
+      "dom9"
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  iii7  IVmaj7  iv6 (modal mix)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "maj7",
+      "min6"
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "iii7  vi7  iim11  V13",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "min11",
+      "dom9"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  IVmaj7/V  Imaj7  IVmaj7/V (D'Angelo sus hang)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      1,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "5",
+      "",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  iii7  IVmaj7/V  Imaj7 (Bill Evans sus turn)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "ii7  IVmaj7/V  Imaj7  I6/9 (sus ii-V-I)",
+    "mode": "major",
+    "degrees": [
+      2,
+      4,
+      1,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "6/9"
+    ],
+    "bass": [
+      "",
+      "5",
+      "",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  vi7  ii7  IVmaj7/V (Isn't She Lovely turn)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "iii7  vi7  ii9  IVmaj7/V (Overjoyed flow)",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      2,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "min9",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7#11  IVmaj9  iim11  V7sus4 (Lyd-tinted)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7#11",
+      "maj9",
+      "min11",
+      "7sus4"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj9  vim11  iim11  V7sus4 (D'Angelo move)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj9",
+      "min11",
+      "min11",
+      "7sus4"
+    ],
+    "inversions": [
+      0,
+      0,
+      4,
+      2
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "I6/9  vi7  IVmaj9  V7sus4",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "qualities": [
+      "6/9",
+      "min7",
+      "maj9",
+      "7sus4"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "ii7  V7  Imaj7  I7  IVmaj7  ivm7 (borrowed iv turnaround)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      1,
+      4,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "maj7",
+      "dom7",
+      "maj7",
+      "min7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj9  VI7  II7  V7 (soul secondary chain)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj9",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  ivm7  bVII7  Imaj7 (backdoor via iv)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "dom7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Neo-Soul",
+    "name": "Imaj7  bIIImaj7  bVImaj7  Imaj7 (mediant trio)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      6,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7  vi7  iim11  V7 (turnaround)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min11",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "ii7  V7  Imaj7  Imaj7#11",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "maj7",
+      "maj7#11"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iii7  vi7  ii7  V7",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7  IV7  iii7  bVII7 (backdoor)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      3,
+      7
+    ],
+    "qualities": [
+      "maj7",
+      "dom7",
+      "min7",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "vi7  II7  ii7  V7 (V/V)",
+    "mode": "major",
+    "degrees": [
+      6,
+      2,
+      2,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      2,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim7b5  V7b9  i (minor ii-V-i)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "m7b5",
+      "7b9",
+      "min7"
+    ],
+    "inversions": [
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7  bIIImaj7  bVImaj7  bII7 (Coltrane-ish)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      3,
+      6,
+      2
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "I6  vi7  ii7  V7 (rhythm changes A)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "6",
+      "min7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "III7  VI7  II7  V7 (rhythm changes B)",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7  vi7  ii7  V7  iii7  VI7  ii7  V7#9",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5,
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min7",
+      "dom7",
+      "min7",
+      "dom7",
+      "min7",
+      "7#9no5"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "I vi ii V (2-beat)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "III7 VI7 II7 V7 (2-beat bridge)",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim7b5 V7b9 Imaj7 VI7 (minor 2-beat turn)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      2,
+      5,
+      1,
+      6
+    ],
+    "qualities": [
+      "m7b5",
+      "7b9",
+      "min7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim11  V7#9  Imaj9  VI7#9 (altered turnaround)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      6
+    ],
+    "qualities": [
+      "min11",
+      "7#9no5",
+      "maj9",
+      "7#9no5"
+    ],
+    "inversions": [
+      0,
+      0,
+      4,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim11  V7sus4  V7  Imaj7#11 (modal ii-V-I)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      5,
+      1
+    ],
+    "qualities": [
+      "min11",
+      "7sus4",
+      "dom7",
+      "maj7#11"
+    ],
+    "beats": [
+      4,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7  bVImaj7  bIIImaj7  bVIImaj7  Imaj7 (borrowed mediant cluster)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "im7  ivm7  bVII7  bIIImaj7 (minor cycle of 4ths)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      7,
+      3
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "dom7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "im7  ivm7  bVII7  bIIImaj7  vim7b5  II7  im7 (Autumn Leaves)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      7,
+      3,
+      6,
+      2,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "dom7",
+      "maj7",
+      "m7b5",
+      "dom7",
+      "min7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim7  ivm7  bVII7  Imaj7 (ii-iv-bVII backdoor)",
+    "mode": "mixolydian",
+    "degrees": [
+      2,
+      4,
+      7,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "dom7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Coltrane changes (Giant Steps core)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "dom7",
+      "maj7",
+      "dom7",
+      "maj7",
+      "min7",
+      "dom7",
+      "maj7"
+    ],
+    "rootPcOffsets": [
+      0,
+      3,
+      8,
+      11,
+      4,
+      10,
+      3,
+      8
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "Imaj7#11  IV7 (Lydian Dom)",
+    "mode": "lydian_dom",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "maj7#11",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "im7  bIIImaj7  IVmaj7  bVII7",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "Imaj7  bVImaj7  bVIImaj7  Imaj7 (mix)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "im9  bIIImaj7#11  IVmaj7  V7#9",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "qualities": [
+      "min9",
+      "maj7#11",
+      "maj7",
+      "7#9no5"
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "Imaj7  iii7  IVmaj7  bVIImaj7",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "maj7",
+      "maj7"
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "im6  bIImaj7  im6  V7b9",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      1,
+      5
+    ],
+    "qualities": [
+      "min6",
+      "maj7",
+      "min6",
+      "7b9"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "Imaj7#11  bIIImaj7#11  bVImaj7#11  bIImaj7#11 (Lyd stack)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      3,
+      6,
+      2
+    ],
+    "qualities": [
+      "maj7#11",
+      "maj7#11",
+      "maj7#11",
+      "maj7#11"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Fusion",
+    "name": "im11  V7#9  Imaj7#11  V7#9 (fusion vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      5,
+      1,
+      5
+    ],
+    "qualities": [
+      "min11",
+      "7#9no5",
+      "maj7#11",
+      "7#9no5"
+    ],
+    "inversions": [
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  IV  I  V7sus4  V7",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      1,
+      5,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "7sus4",
+      "dom7"
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  IV  V7sus4  V7  I",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "7sus4",
+      "dom7",
+      "maj"
+    ],
+    "beats": [
+      4,
+      4,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "vi  IV  I6/9  V7",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "6/9",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      1,
+      3,
+      0
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  III7  IV  iv (modal mix)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "maj",
+      "min"
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  IV  ii  V7 (turnaround)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "min",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  vi  ii  V7 (gospel circle)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "min",
+      "min",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  I  IV  IV  V7 (walking bass up)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      4,
+      4,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5",
+      ""
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I I/iii IV V7 (2-beat walk)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      4,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "vi  IV  V7sus4  V7 (gospel return)",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      5,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "7sus4",
+      "dom7"
+    ],
+    "beats": [
+      4,
+      4,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I6/9  IV6/9  V7sus4  I6/9 (benediction)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "6/9",
+      "6/9",
+      "7sus4",
+      "6/9"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  VI7  ii7  V7  I (secondary chain)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "min7",
+      "dom7",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  III7  VI7  II7  V7  I (full chain)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      6,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "maj"
+    ],
+    "beats": [
+      4,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Gospel",
+    "name": "I  I7  IV  iv  I (gospel borrowed iv)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      4,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "12-bar I7-IV7-I7-V7-IV7-I7-V7",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      1,
+      1,
+      1,
+      4,
+      4,
+      1,
+      1,
+      5,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "12-bar quick-change",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      1,
+      1,
+      4,
+      4,
+      1,
+      1,
+      5,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "Minor blues 12-bar",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      1,
+      1,
+      1,
+      4,
+      4,
+      1,
+      1,
+      5,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "min7",
+      "min7",
+      "min7",
+      "min7",
+      "min7",
+      "min7",
+      "min7",
+      "dom7",
+      "min7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      1,
+      3,
+      1
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "8-bar I7  V7  IV7  IV7  I7  V7  I7  V7",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      5,
+      4,
+      4,
+      1,
+      5,
+      1,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "Turnaround  I7  IV7  I7  V7",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Blues",
+    "name": "I7 IV7 I7 V7 (2-beat turnaround bar)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      1,
+      5
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im7  IV7 (Dorian vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im9  bVII7  IV7  im9",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      7,
+      4,
+      1
+    ],
+    "qualities": [
+      "min9",
+      "dom7",
+      "dom7",
+      "min9"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "ii7  V7  ii7  V7 (vamp)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      2,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "I7 vamp (one-chord)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im7  bIII7  bVII7  IV7",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      3,
+      7,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im9  bVII7 (Funk tonic pedal)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      7
+    ],
+    "qualities": [
+      "min9",
+      "dom7"
+    ],
+    "bass": [
+      "",
+      "1"
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im7 IV7 (half-bar vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "im9 bVII7 IV7 V7 (2-beat quickfire)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      7,
+      4,
+      5
+    ],
+    "qualities": [
+      "min9",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Funk",
+    "name": "i7#9  iv7#9 (Hendrix funk vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "7#9no5",
+      "7#9no5"
+    ],
+    "beats": [
+      4,
+      4
+    ]
+  },
+  {
+    "cat": "Disco",
+    "name": "IVmaj7  iii7  ii7  IVmaj7/V (After the Love)",
+    "mode": "major",
+    "degrees": [
+      4,
+      3,
+      2,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "min7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ],
+    "inversions": [
+      0,
+      1,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Disco",
+    "name": "vi9  ii9  IVmaj7/V  Imaj9 (September lift)",
+    "mode": "major",
+    "degrees": [
+      6,
+      2,
+      4,
+      1
+    ],
+    "qualities": [
+      "min9",
+      "min9",
+      "maj7",
+      "maj9"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      3,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Disco",
+    "name": "iii7  vi9  IVmaj7/V  iii7 (Reasons vamp)",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      4,
+      3
+    ],
+    "qualities": [
+      "min7",
+      "min9",
+      "maj7",
+      "min7"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Disco",
+    "name": "Imaj9  vi9  IVmaj7/V  Imaj9 (Fantasy float)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj9",
+      "min9",
+      "maj7",
+      "maj9"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I  V  IV (3-chord)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I  IV  V  I (anthem)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "vi  IV  V  I",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I  IV  bVII  IV (Mixo riff)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      4,
+      7,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  bVI  bIII  bVII (epic)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I5  IV5  V5 (power chords)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i5  bVII5  bVI5  bVII5",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      7
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I bVII IV bVII (3+1 pump)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      7,
+      4,
+      7
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "beats": [
+      3,
+      1,
+      3,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "I  III  IV  iv (Creep)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      4
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "min"
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  bIII  bVII  IV (Mad World)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      7,
+      4
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  IV  bVII  i (Gotye vamp)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      4,
+      7,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  bVI  bVII  I (borrow to major close)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  i/b7  i/#6  bVI (chromatic minor bass)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      1,
+      1,
+      6
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "min",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "7",
+      "#6",
+      ""
+    ]
+  },
+  {
+    "cat": "Rock",
+    "name": "i  V  bVII  IV  bVI  bIII  iv  V (Hotel California)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      5,
+      7,
+      4,
+      6,
+      3,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj",
+      "maj",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "#6",
+      "",
+      "5",
+      "6",
+      ""
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i5  bII5  i5  bII5 (Phrygian)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i5  bVI5  bVII5  i5",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i  bII  bIII  iv (Phrygian dark)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i5  bVII5  bVI5  V5 (lament)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      7,
+      6,
+      5
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i  V  bVI  iv (harmonic minor)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      5,
+      6,
+      4
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i  bIII  iv  bVII",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i5  bVI5  bIII5  bVII5 (anthem)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7
+    ],
+    "qualities": [
+      "5",
+      "5",
+      "5",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i  bII  V7  i (Phrygian-dom cadence)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "dom7",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Metal",
+    "name": "i  bVII  bVI  V7  i (Andalusian cadence)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      7,
+      6,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "dom7",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "I  V  vi  IV (anthem)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "vi  V  IV  V (build)",
+    "mode": "major",
+    "degrees": [
+      6,
+      5,
+      4,
+      5
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "i  bIII  bVII  IV (Dorian synth)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      3,
+      7,
+      4
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "i  bVI  bVII  v (trap loop)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "i  iv  bVI  bVII (trap dark)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      4,
+      6,
+      7
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "i  bIII  v  iv (drill)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      5,
+      4
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "min"
+    ]
+  },
+  {
+    "cat": "EDM/Synth",
+    "name": "i  bVI  IV  V (minor, borrowed major IV)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "ii7  V7  Imaj7  Imaj7 (bossa)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "maj7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "Imaj7  VI7  ii7  V7 (bossa turn)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "dom7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "ii7  V7  iii7  VI7 (bossa cycle)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      3,
+      6
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "Imaj7  VI7  ii7  V7  iii7  VI7  ii7  V7",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      2,
+      5,
+      3,
+      6,
+      2,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "dom7",
+      "min7",
+      "dom7",
+      "min7",
+      "dom7",
+      "min7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0,
+      1,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "i  bVII  bVI  V (Andalusian)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      7,
+      6,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "im7  IV7 (Latin Dorian vamp)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "I IV V (tresillo 3+3+2)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "beats": [
+      1.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "cat": "Latin",
+    "name": "im IV V (tresillo minor)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "dom7"
+    ],
+    "beats": [
+      1.5,
+      1.5,
+      1.0
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "I  IV  V  V (one-drop)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      5
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "I  V  vi  IV (skank)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "vi  IV  V  V",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      5,
+      5
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "i  bVII  i  bVII (rockers)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      1,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "ii  V  I  I (rocksteady)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "cat": "Reggae",
+    "name": "i  iv  v  i (minor reggae)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "min",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  bVI  bVII  i",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  iv  bVI  V (harmonic minor)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      4,
+      6,
+      5
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "Imaj7#11  bVImaj7  bVIImaj7  Imaj7#11 (mix)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj7#11",
+      "maj7",
+      "maj7",
+      "maj7#11"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  bVII  bVI  bVII",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  bIII  bVI  bVII",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "Iaug  bVI  bVII  i (epic)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "aug",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  bII  i  V7 (Phrygian dom)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      1,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  bIII  iv  bVI (lament, walking)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      4,
+      6
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      2,
+      1,
+      0
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  V/iv  iv  V (trailer build)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      1,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "dom7",
+      "min",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i  i  i  IV (Stairway descent)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      1,
+      1,
+      4
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "bass": [
+      "",
+      "#7",
+      "7",
+      ""
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "i bVI bVII V (3+3+2 trailer build)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "beats": [
+      3,
+      3,
+      2,
+      8
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "imadd9  bVImadd9  IVmadd9  Vmadd9 (minor modal pad)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      4,
+      5
+    ],
+    "qualities": [
+      "madd9",
+      "madd9",
+      "madd9",
+      "madd9"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "I  bVII  bVI  V7 (major Andalusian descent)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      5
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "Imaj7  bVImaj7  bIIImaj7  bVII7  I (reverse mediants)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "dom7",
+      "maj"
+    ],
+    "beats": [
+      4,
+      2,
+      2,
+      2,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj7#11  IIIm7  IVmaj7  IVmaj7/V (Schala flow, Mitsuda)",
+    "mode": "major",
+    "degrees": [
+      1,
+      3,
+      4,
+      4
+    ],
+    "qualities": [
+      "maj7#11",
+      "min7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "IVmaj7  iii7  IVmaj7/V  Imaj7 (Aerith cadence, Uematsu)",
+    "mode": "major",
+    "degrees": [
+      4,
+      3,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "min7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj7  IImaj7  IVmaj7/V  Imaj7 (Lyd sus float)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "iim7  V7  IIIm7  IVmaj7/V (Persona jazz turn, Meguro)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      3,
+      4
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "min7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "",
+      "5"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "vi7  IVmaj7/V  Imaj7  IIIm7 (Bebop cool turn, Kanno)",
+    "mode": "major",
+    "degrees": [
+      6,
+      4,
+      1,
+      3
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "min7"
+    ],
+    "bass": [
+      "",
+      "5",
+      "",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "IIIm7  vi9  IVmaj7/V  Imaj9 (Sakamoto resolve)",
+    "mode": "major",
+    "degrees": [
+      3,
+      6,
+      4,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "min9",
+      "maj7",
+      "maj9"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj7  bVIImaj7  IVmaj7/V  Imaj7 (Mixo sus, Shimomura)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      7,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj9 IVmaj7#11 bIIImaj9 bIImaj9 I (Plok Beach Core Loop)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      3,
+      2,
+      1
+    ],
+    "qualities": [
+      "maj9",
+      "maj7#11",
+      "maj9",
+      "maj9",
+      "maj"
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      2,
+      2
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj9(no3) Imaj13(no3) Imaj9(no3) I (Plok Beach Intro 7/8 Fanfare)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "qualities": [
+      "maj9",
+      "maj13",
+      "maj9",
+      "maj"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "i  bII  bVII  i (Phrygian)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      7,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "I  II  I  II (Lydian)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "I  bVII  IV  I (Mixolydian)",
+    "mode": "mixolydian",
+    "degrees": [
+      1,
+      7,
+      4,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "i  IV  i  bVII (Dorian)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      1,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "i  VI  bIII  bVII (Dorian)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      6,
+      3,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "Imaj7  IImaj7  V7  Imaj7 (Lyd)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "dom7",
+      "maj7"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "Imaj7  bVII7  Imaj7 (Lyd Dom)",
+    "mode": "lydian_dom",
+    "degrees": [
+      1,
+      7,
+      1,
+      7
+    ],
+    "qualities": [
+      "maj7",
+      "dom7",
+      "maj7",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "cat": "Modal",
+    "name": "i  bII  iv  V7 (Phryg dom)",
+    "mode": "phrygian",
+    "degrees": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "min",
+      "dom7"
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "I  IV  I (plagal/amen)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "i  iv  V7  I (Picardy)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "dom7",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "i  bVII  bVI  V (lament bass)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      5
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "bII  V7  i (Neapolitan)",
+    "mode": "phrygian",
+    "degrees": [
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "i  iv  V7  i (minor cadence)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "dom7",
+      "min"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "I  vi  IV  V  I (extended cadence)",
+    "mode": "major",
+    "degrees": [
+      1,
+      6,
+      4,
+      5,
+      1
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "I  V/V  V  I (secondary dom)",
+    "mode": "major",
+    "degrees": [
+      1,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "dom7",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "i  V7  iv  V7 (voice-led lament)",
+    "mode": "harmonic_minor",
+    "degrees": [
+      1,
+      5,
+      4,
+      5
+    ],
+    "qualities": [
+      "min",
+      "dom7",
+      "min",
+      "dom7"
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "bass": [
+      "",
+      "7",
+      "",
+      ""
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "i  bIII  IV  V  I (Picardy resolve)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      3,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Classical",
+    "name": "I  V  vi  iii  IV  I/2nd  ii  V (Bach ground bass)",
+    "mode": "major",
+    "degrees": [
+      1,
+      5,
+      6,
+      3,
+      4,
+      1,
+      2,
+      5
+    ],
+    "inversions": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im bVI/1 bVII/1 bVII (tonic pedal euphoric)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im/5 bVI/5 bIII/5 bVII (dominant pedal build)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "5",
+      "5",
+      "5",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "I IVmaj7/1 Vsus4/1 I (uplifting tonic pedal)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj",
+      "maj7",
+      "sus4",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im im/#7 im/b7 bVII (chromatic bass drop)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      1,
+      1,
+      7
+    ],
+    "qualities": [
+      "min",
+      "min",
+      "min",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "#7",
+      "7",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im bVII/1 bVI/1 bVII (tonic float loop)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "i bVI/1 bVII/1 I (minor to major lift with pedal)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      7,
+      1
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im7 IVmaj7/1 bVIImaj7/1 bIIImaj7 (Dorian tonic pedal)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      7,
+      3
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ]
+  },
+  {
+    "cat": "Trance",
+    "name": "im bVI/5 bIII bVII/1 (bass arch weave)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      6,
+      3,
+      7
+    ],
+    "qualities": [
+      "min",
+      "maj",
+      "maj",
+      "maj"
+    ],
+    "bass": [
+      "",
+      "5",
+      "",
+      "1"
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "im7 IVmaj7/1 bVIImaj7/1 bIIImaj7/1 (McCoy Tyner tonic pedal cycle)",
+    "mode": "dorian",
+    "degrees": [
+      1,
+      4,
+      7,
+      3
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7/5 IVmaj7/5 V7/5 Imaj7 (dominant pedal resolution)",
+    "mode": "major",
+    "degrees": [
+      1,
+      4,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "dom7",
+      "maj7"
+    ],
+    "bass": [
+      "5",
+      "5",
+      "5",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7 Imaj7/6 Imaj7/b6 V7 (chromatic bass descent to 5)",
+    "mode": "major",
+    "degrees": [
+      1,
+      1,
+      1,
+      5
+    ],
+    "qualities": [
+      "maj7",
+      "maj7",
+      "maj7",
+      "dom7"
+    ],
+    "bass": [
+      "",
+      "6",
+      "b6",
+      ""
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "iim7 V7/3 Imaj7 (first-inversion V resolution)",
+    "mode": "major",
+    "degrees": [
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "min7",
+      "dom7",
+      "maj7"
+    ],
+    "bass": [
+      "",
+      "3",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "im7 bVIImaj7/1 bVImaj7/1 V7b9 (minor tonic pedal into dominant)",
+    "mode": "minor",
+    "degrees": [
+      1,
+      7,
+      6,
+      5
+    ],
+    "qualities": [
+      "min7",
+      "maj7",
+      "maj7",
+      "7b9"
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ]
+  }
+]
