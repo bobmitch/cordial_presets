@@ -45,11 +45,14 @@ corresponding `qualities[i]` entry is `null` or missing.
 
 ### `qualities` — accepted strings (exact)
 
-- Triads: `maj`, `min`, `dim`, `aug`, `sus2`, `sus4`, `5` (power).
-- Sixths: `6`, `min6`, `6/9`.
-- Sevenths: `maj7`, `min7`, `dom7`, `dim7`, `m7b5`, `7sus4`.
-- Extensions: `add9`, `madd9`, `maj9`, `min9`, `dom9` (alias `9`), `min11`, `maj13`, `maj7#11`.
-- Altered dominants: `7b9`, `7#9`, `7#9no5`.
+- Triads: `maj` (0,4,7), `min` (0,3,7), `dim` (0,3,6), `aug` (0,4,8)
+- Power: `5` (0,7,12)
+- Suspended: `sus2` (0,2,7), `sus4` (0,5,7), `7sus4` (0,5,7,10)
+- Sevenths: `maj7`, `min7`, `dom7` (alias `7`), `dim7`, `m7b5` (half-diminished), `minMaj7` (0,3,7,11)
+- Altered dominants: `7b5` (0,4,6,10), `7#5` / `aug7` (0,4,8,10), `7#9` (0,4,7,10,15), `7#9no5` (0,4,10,15), `7b9` (0,4,7,10,13)
+- Sixths: `6` (0,4,7,9), `min6` (0,3,7,9), `6/9` (0,4,7,9,14)
+- Extended: `add9`, `madd9`, `maj9`, `min9`, `dom9` (alias `9`), `min11`, `maj13`
+- Lydian colour / upper-structure dominants: `maj7#11` (0,4,7,11,18), `maj7#5` (0,4,8,11), `7#11` (0,4,7,10,18), `11` (0,7,10,14,17 — 3rd omitted), `13` (0,4,7,10,14,21 — 11th omitted), `min13` (0,3,7,10,14,21), `min7b9` (0,3,7,10,13)
 
 Anything outside this set is silently dropped to the mode default.
 
