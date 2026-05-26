@@ -5272,5 +5272,162 @@
       "1",
       ""
     ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "Imaj7  II  Imaj7  II (Lydian wonder cue)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "qualities": [
+      "maj7",
+      "maj",
+      "maj7",
+      "maj"
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "cat": "Cinematic",
+    "name": "Imaj7#11  II/1  V/1  Imaj7#11 (Lydian pedal float)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      5,
+      1
+    ],
+    "qualities": [
+      "maj7#11",
+      "maj",
+      "maj",
+      "maj7#11"
+    ],
+    "beats": [
+      4,
+      2,
+      2,
+      4
+    ],
+    "bass": [
+      "",
+      "1",
+      "1",
+      ""
+    ],
+    "inversions": [
+      0,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "Imaj7#11  II7  Imaj7#11  V7sus4 (Lydian post-bop)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      2,
+      1,
+      5
+    ],
+    "qualities": [
+      "maj7#11",
+      "dom7",
+      "maj7#11",
+      "7sus4"
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "inversions": [
+      0,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "cat": "Jazz",
+    "name": "I7  bVII7  I7  bVII7 (Bartok bridge, Lydian Dom)",
+    "mode": "lydian_dom",
+    "degrees": [
+      1,
+      7,
+      1,
+      7
+    ],
+    "qualities": [
+      "dom7",
+      "dom7",
+      "dom7",
+      "dom7"
+    ],
+    "beats": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "inversions": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "cat": "Game/JRPG",
+    "name": "Imaj7  V  II/1  IVmaj7 (Lydian overworld)",
+    "mode": "lydian",
+    "degrees": [
+      1,
+      5,
+      2,
+      4
+    ],
+    "qualities": [
+      "maj7",
+      "maj",
+      "maj",
+      "maj7"
+    ],
+    "beats": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "bass": [
+      "",
+      "",
+      "1",
+      ""
+    ],
+    "inversions": [
+      0,
+      1,
+      0,
+      2
+    ]
   }
 ]
